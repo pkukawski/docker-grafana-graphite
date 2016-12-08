@@ -102,6 +102,9 @@ EXPOSE  8126
 # Graphite web port
 EXPOSE 81
 
+# Graphite port
+EXPOSE 2003-2004 2023-2024
+
 
 
 # -------- #
